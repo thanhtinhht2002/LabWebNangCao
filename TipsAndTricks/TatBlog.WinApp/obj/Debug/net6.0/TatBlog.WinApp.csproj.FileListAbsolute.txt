@@ -75,3 +75,4 @@ F:\file ôn tập C#\lab01\TipsAndTricks\TatBlog.WinApp\obj\Debug\net6.0\refint\
 F:\file ôn tập C#\lab01\TipsAndTricks\TatBlog.WinApp\obj\Debug\net6.0\TatBlog.WinApp.pdb
 F:\file ôn tập C#\lab01\TipsAndTricks\TatBlog.WinApp\obj\Debug\net6.0\TatBlog.WinApp.genruntimeconfig.cache
 F:\file ôn tập C#\lab01\TipsAndTricks\TatBlog.WinApp\obj\Debug\net6.0\ref\TatBlog.WinApp.dll
+F:\file ôn tập C#\lab01\TipsAndTricks\TatBlog.WinApp\bin\Debug\net6.0\System.Linq.Dynamic.Core.dll
