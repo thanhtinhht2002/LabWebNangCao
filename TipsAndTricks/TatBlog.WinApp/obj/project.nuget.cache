@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "AxZO7hpG1stb+9ecPYsYrcURzVH29d6X7IfJiedsSv9X72Ml9zXJDVZgcbyfFWcfIfd5KckPlMpS9HSaRlm+aw==",
+  "dgSpecHash": "4nyxF05C4Rpf7Q1gCA0l76J+QjLR1RnQD0mdJVGCM3FTaHlNkr/t+qYcwomsvBMN7onSG1+huocz1AdFUXELPQ==",
   "success": true,
   "projectFilePath": "F:\\file ôn tập C#\\lab01\\TipsAndTricks\\TatBlog.WinApp\\TatBlog.WinApp.csproj",
   "expectedPackageFiles": [
@@ -51,6 +51,7 @@
     "C:\\Users\\Admin\\.nuget\\packages\\system.globalization\\4.3.0\\system.globalization.4.3.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.21.0\\system.identitymodel.tokens.jwt.6.21.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.linq.dynamic.core\\1.2.25\\system.linq.dynamic.core.1.2.25.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\system.memory.data\\1.0.2\\system.memory.data.1.0.2.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",

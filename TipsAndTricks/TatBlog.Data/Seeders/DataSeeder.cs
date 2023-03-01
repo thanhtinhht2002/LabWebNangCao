@@ -27,6 +27,7 @@ public class DataSeeder : IDataSeeder
         var posts = AddPosts(authors, categories, tags);
     }
 
+
     private IList<Author> AddAuthors()
     {
         var authors = new List<Author>()
@@ -44,8 +45,24 @@ public class DataSeeder : IDataSeeder
                 UrlSlug = "jessica-wonder",
                 Email ="jessica665@gmail.com",
                 JoinedDate = new DateTime(2020,4,19)
+            },
+            new()
+            {
+                FullName = "Nguyen Le Thanh Tinh",
+                    UrlSlug="nguyen-le-thanh-tinh",
+                    Email="2012384@dlu.edu.vn",
+                    JoinedDate=new DateTime(2021,2,28)
+            }
+             new()
+            {
+                FullName = "Nguyen Thanh Long",
+                    UrlSlug="nguyen-thanh-long",
+                    Email="longnt@dlu.edu.vn",
+                    JoinedDate=new DateTime(2023,1,8)
             }
         };
+
+
         _dbContext.Authors.AddRange(authors);
         _dbContext.SaveChanges();
 
@@ -59,8 +76,8 @@ public class DataSeeder : IDataSeeder
                 new() { Name ="Architecture", Description ="Architecture", UrlSlug = "architecture", ShowOnMenu = true, Posts = new List<Post>(){ } },
                 new() { Name ="Messaging", Description ="Messaging", UrlSlug = "messaging", ShowOnMenu = true, Posts = new List<Post>(){ } },
                 new() { Name ="OOP", Description ="OOP", UrlSlug = "oop", ShowOnMenu = true, Posts = new List<Post>(){ } },
-                new() { Name ="Design Patterns", Description ="Design Patterns", UrlSlug = "design-patterns", ShowOnMenu = true, Posts = new List<Post>(){ } }
-
+                new() { Name ="Design Patterns", Description ="Design Patterns", UrlSlug = "design-patterns", ShowOnMenu = true, Posts = new List<Post>(){ } },
+                
             };
         _dbContext.AddRange(categories);
         _dbContext.SaveChanges();
@@ -70,9 +87,9 @@ public class DataSeeder : IDataSeeder
     {
         var tags = new List<Tag>()
             {
-                new() {Name = "Google", Description = "Google applications", UrlSlug="google-applications", Posts = new List<Post>(){  }},
+                new() {Name = "AI", Description = "AI Assistant", UrlSlug="GPT-applications", Posts = new List<Post>(){  }},
                 new() {Name = "ASP.NET MVC", Description = "Google applications", UrlSlug="google-applications", Posts = new List<Post>(){  }},
-                new() {Name = "Google", Description = "Google applications", UrlSlug="google-applications", Posts = new List<Post>(){  }},
+                new() {Name = "Python", Description = "Python applications", UrlSlug="python-applications", Posts = new List<Post>(){  }},
                 new() {Name = "Google", Description = "Google applications", UrlSlug="google-applications", Posts = new List<Post>(){  }},
                 new() {Name = "Google", Description = "Google applications", UrlSlug="google-applications", Posts = new List<Post>(){  }},
         };
