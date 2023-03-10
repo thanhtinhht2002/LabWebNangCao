@@ -3334,11 +3334,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\file ôn tập C#\\lab01\\TipsAndTricks\\TatBlog.Services\\TatBlog.Services.csproj",
+      "projectUniqueName": "F:\\file ôn tập C#\\Tip & Trick\\LabWebNangCao\\TipsAndTricks\\TatBlog.Services\\TatBlog.Services.csproj",
       "projectName": "TatBlog.Services",
-      "projectPath": "F:\\file ôn tập C#\\lab01\\TipsAndTricks\\TatBlog.Services\\TatBlog.Services.csproj",
+      "projectPath": "F:\\file ôn tập C#\\Tip & Trick\\LabWebNangCao\\TipsAndTricks\\TatBlog.Services\\TatBlog.Services.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "F:\\file ôn tập C#\\lab01\\TipsAndTricks\\TatBlog.Services\\obj\\",
+      "outputPath": "F:\\file ôn tập C#\\Tip & Trick\\LabWebNangCao\\TipsAndTricks\\TatBlog.Services\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3360,11 +3360,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "F:\\file ôn tập C#\\lab01\\TipsAndTricks\\TatBlog.Core\\TatBlog.Core.csproj": {
-              "projectPath": "F:\\file ôn tập C#\\lab01\\TipsAndTricks\\TatBlog.Core\\TatBlog.Core.csproj"
+            "F:\\file ôn tập C#\\Tip & Trick\\LabWebNangCao\\TipsAndTricks\\TatBlog.Core\\TatBlog.Core.csproj": {
+              "projectPath": "F:\\file ôn tập C#\\Tip & Trick\\LabWebNangCao\\TipsAndTricks\\TatBlog.Core\\TatBlog.Core.csproj"
             },
-            "F:\\file ôn tập C#\\lab01\\TipsAndTricks\\TatBlog.Data\\TatBlog.Data.csproj": {
-              "projectPath": "F:\\file ôn tập C#\\lab01\\TipsAndTricks\\TatBlog.Data\\TatBlog.Data.csproj"
+            "F:\\file ôn tập C#\\Tip & Trick\\LabWebNangCao\\TipsAndTricks\\TatBlog.Data\\TatBlog.Data.csproj": {
+              "projectPath": "F:\\file ôn tập C#\\Tip & Trick\\LabWebNangCao\\TipsAndTricks\\TatBlog.Data\\TatBlog.Data.csproj"
             }
           }
         }
